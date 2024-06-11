@@ -1,0 +1,51 @@
+.logo{
+    height: 6em;
+}
+.font-size{
+    font-size: 12px;
+}
+.main-title{
+    font-size: 50px;
+    color: rgb(12, 64, 53);
+    line-height: 1.1;
+}
+.ad-image{
+ width: 85%;
+}
+.free-button{
+    padding: 2% 10%;
+}
+.free-button:hover{
+    background-color: rgb(12, 64, 53);
+}
+.data{
+    color: rgb(12, 64, 53);
+}
+@media (max-width:540px){
+    .media-class{
+        background-color: #fff;
+    }
+}
+.commerce{
+    background-color: rgb(4, 126, 57);
+  }
+  @media (max-width:720px){
+    .commerce{
+      background-color: #fff;
+      border: 10px solid rgb(4, 126, 57);
+    }
+  }
+  .access-button{
+    color: rgb(21, 21, 200);
+  }
+  .help-text{
+    font-size: 3em;
+  }
+  @media (max-width:540px){
+    .centere-text{
+      text-align: center;
+    }
+  } 
+  .insta-icon{
+    width: 100%;
+  }
